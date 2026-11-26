@@ -1,0 +1,9 @@
+{
+  "name": "uat-recette",
+  "version": "0.4.0",
+  "description": "Recettes UAT front et back sur les sites gérés, pilotées par un cahier des charges Google Doc/Sheet par site. Bascule automatique du navigateur intégré vers Claude in Chrome, consignation des résultats (statut, écart, captures) dans le cahier des charges, écritures back uniquement sur staging, revue humaine ensuite.",
+  "author": {
+    "name": "Damien Duguet"
+  },
+  "keywords": ["uat", "recette", "qa", "magento", "akeneo", "lovable", "wordpress"]
+}

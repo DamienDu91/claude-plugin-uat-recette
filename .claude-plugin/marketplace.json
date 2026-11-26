@@ -1,0 +1,13 @@
+{
+  "name": "uat-recette-marketplace",
+  "owner": {
+    "name": "Damien Duguet"
+  },
+  "plugins": [
+    {
+      "name": "uat-recette",
+      "source": "./",
+      "description": "Recettes UAT front et back pilotées par cahier des charges Google Doc/Sheet : exécution dans le navigateur (bascule vers Claude in Chrome), bilan en un coup d'oeil, rejeu après correctif, chronométrage."
+    }
+  ]
+}
