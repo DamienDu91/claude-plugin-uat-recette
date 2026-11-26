@@ -72,7 +72,7 @@ Chaque passage est chronométré par relevés d'heure (jamais estimés) : durée
 - Les captures ne peuvent pas toujours être insérées dans le Doc/Sheet : référencées par nom de fichier, ou liées via Drive si le téléversement fonctionne.
 - Pas de console, réseau, sévérité ni piste corrective par défaut.
 - CAPTCHA et protections anti-bot : le cas passe en Bloqué.
-- Les playbooks plateformes (Magento, Akeneo, Lovable, WordPress) sont des points de vigilance, pas des scripts.
+- Les playbooks plateformes (Magento, Lovable, WordPress) sont des points de vigilance, pas des scripts.
 - Un statut OK signifie conforme au CDC tel qu'écrit, pas absence de défaut. Une validation humaine reste nécessaire.
 
 ## Contribuer et licence
